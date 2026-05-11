@@ -40,3 +40,9 @@ node_modules/
 # Environment variables
 .env
 .env.local
+.claude/
+deploy/
+deploy.zip
+.claude/
+deploy/
+deploy.zip
