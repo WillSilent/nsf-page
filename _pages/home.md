@@ -1,8 +1,9 @@
 ---
 layout: about
 title: Home
+heading: "Mobile and Internet SecuriTy (MIST) Lab"
 permalink: /
-subtitle: <a href='https://www.smu.edu/lyle/departments/cs/people/faculty/wang-chen'>Lab Director: Dr. Chen Wang</a>
+subtitle: "<a href='https://www.smu.edu/lyle/departments/cs/people/faculty/wang-chen'>Lab Director: Dr. Chen Wang</a>"
 
 profile:
   align: left
