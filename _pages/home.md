@@ -28,13 +28,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an associate professor at SMU Lyle. I lead the Mobile and Internet SecuriTy Lab (MIST LAB). My research interests include Cyber Security and Privacy, Robotics Security, Sensing, Smart Health Care, Mixed Reality, Internet of Things, and Machine Learning.
+Dr. Wang is an associate professor at SMU Lyle and leads the Mobile and Internet SecuriTy (MIST) Lab. My research interests include Cyber Security and Privacy, Robotics Security, Sensing, Smart Health Care, Mixed Reality, Internet of Things, and Machine Learning.
 
- 
+Lab Director: Dr. Chen Wang
 
-Chen Wang received his Ph.D. degree in Electrical and Computer Engineering at Rutgers University and he worked at WINLAB. He obtained his Master’s and Bachelor’s degrees from University of Electronic and Science of Technology of China (UESTC). [Google Scholar]
-
-I am seeking collaborations with small businesses and startups in the areas of security, smart health, robotics, blockchain-based technologies and the metaverse!
+Dr. Wang is seeking collaborations with small businesses and startups in the areas of security, smart health, robotics, blockchain-based technologies and the metaverse!
 
 <div style="clear: both;"></div>
 

@@ -22,7 +22,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 # baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 
 # url: https://s2.smu.edu # the base hostname & protocol for your site
-# baseurl: /~cwang6# the subpath of your site, e.g. /blog/. Leave blank for root
+# baseurl: /~cwang6       # the subpath of your site, e.g. /blog/. Leave blank for root
 
 url: https://willsilent.github.io # the base hostname & protocol for your site
 baseurl: /nsf-page
