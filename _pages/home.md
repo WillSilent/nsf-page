@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.smu.edu/lyle/departments/cs/people/faculty/wang-chen'>Lyle School of Engineering, Southern Methodist University.</a>
+subtitle: <a href='https://www.smu.edu/lyle/departments/cs/people/faculty/wang-chen'>Lab Director: Dr. Chen Wang</a>
 
 profile:
   align: left
@@ -28,9 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Dr. Wang is an associate professor at SMU Lyle and leads the Mobile and Internet SecuriTy (MIST) Lab. My research interests include Cyber Security and Privacy, Robotics Security, Sensing, Smart Health Care, Mixed Reality, Internet of Things, and Machine Learning.
-
-Lab Director: Dr. Chen Wang
+Dr. Wang is an associate professor at SMU Lyle and leads the Mobile and Internet SecuriTy (MIST) Lab. His research interests include Cyber Security and Privacy, Robotics Security, Sensing, Smart Health Care, Mixed Reality, Internet of Things, and Machine Learning.
 
 Dr. Wang is seeking collaborations with small businesses and startups in the areas of security, smart health, robotics, blockchain-based technologies and the metaverse!
 
